@@ -41,7 +41,7 @@ html{
     margin-top: 10px;
     margin-left: 10px;
 }header li{
-    float: right;
+    float: left;
     margin: 2px 5px;
 }header li a {
     background-color: rgb(2, 2, 211);

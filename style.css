@@ -42,7 +42,7 @@ html{
     margin-left: 10px;
 }header li{
     float: left;
-    margin: 2px 12px;
+    margin: 2px 12px 2px 0px;
 }header li a {
     background-color: rgb(2, 2, 211);
     display: block;

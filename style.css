@@ -33,11 +33,14 @@ html{
 }img{
     margin-left: 30px;
 }table, th, td {
-    padding: 2px;
+    padding: 1px;
     border: 1px solid whitesmoke;
     border-collapse: collapse;
-}table{
-    padding: 10px;
+}#Ativ {
+    margin-left: 2px;
+}
+table{
+    padding: 1px;
     margin-top: 10px;
     margin-left: 10px;
 }header li{
@@ -55,4 +58,6 @@ html{
     color: whitesmoke;
 }a{
     color: yellow;
+}footer a{
+    margin-left: 50px;
 }

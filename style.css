@@ -42,13 +42,13 @@ html{
     margin-left: 10px;
 }header li{
     float: left;
-    margin: 2px 8px;
+    margin: 2px 2px;
 }header li a {
     background-color: rgb(2, 2, 211);
     display: block;
     color: yellow;
     text-align: center;
-    padding: 1px;
+    padding: 5px;
     text-decoration: none;
 }header li a:hover {
     background-color: rgb(2, 2, 100);
